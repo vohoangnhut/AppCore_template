@@ -18,3 +18,5 @@ $.backstretch([
 $('.full-screem-wrap').slimscroll({
   height: '100vh'
 });
+
+$('#menu-toggle').draggable();
