@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_189613_nhutvo_table">x_189613_nhutvo_table</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>VHN</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-26 10:21:27</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>25378f470f33030080a906ace1050e37</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>VHN</sys_name>
+        <sys_package display_value="nhutvo" source="x_189613_nhutvo">683747470f33030080a906ace1050e2f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="nhutvo">683747470f33030080a906ace1050e2f</sys_scope>
+        <sys_update_name>sys_number_25378f470f33030080a906ace1050e37</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-26 10:21:27</sys_updated_on>
+    </sys_number>
+</record_update>
